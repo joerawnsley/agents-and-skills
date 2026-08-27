@@ -1,7 +1,7 @@
 ---
 name: academic-researcher
 description: Researches and publishes findings
-mode: primary
+mode: subagent
 permission:
     web-search: allow
 ---
