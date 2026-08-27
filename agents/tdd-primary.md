@@ -1,7 +1,6 @@
 ---
 description: Primary developer agent enforcing strict Test-Driven Development (TDD)
 mode: primary
-model: anthropic/claude-sonnet-4-20250514
 temperature: 0.1
 permission:
     edit: allow
